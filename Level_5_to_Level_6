@@ -1,0 +1,416 @@
+bandit5@bandit:~$ find inhere
+inhere
+inhere/maybehere03
+inhere/maybehere03/.file2
+inhere/maybehere03/spaces file3
+inhere/maybehere03/-file3
+inhere/maybehere03/-file2
+inhere/maybehere03/.file3
+inhere/maybehere03/spaces file1
+inhere/maybehere03/-file1
+inhere/maybehere03/spaces file2
+inhere/maybehere03/.file1
+inhere/maybehere19
+inhere/maybehere19/.file2
+inhere/maybehere19/spaces file3
+inhere/maybehere19/-file3
+inhere/maybehere19/-file2
+inhere/maybehere19/.file3
+inhere/maybehere19/spaces file1
+inhere/maybehere19/-file1
+inhere/maybehere19/spaces file2
+inhere/maybehere19/.file1
+inhere/maybehere06
+inhere/maybehere06/.file2
+inhere/maybehere06/spaces file3
+inhere/maybehere06/-file3
+inhere/maybehere06/-file2
+inhere/maybehere06/.file3
+inhere/maybehere06/spaces file1
+inhere/maybehere06/-file1
+inhere/maybehere06/spaces file2
+inhere/maybehere06/.file1
+inhere/maybehere12
+inhere/maybehere12/.file2
+inhere/maybehere12/spaces file3
+inhere/maybehere12/-file3
+inhere/maybehere12/-file2
+inhere/maybehere12/.file3
+inhere/maybehere12/spaces file1
+inhere/maybehere12/-file1
+inhere/maybehere12/spaces file2
+inhere/maybehere12/.file1
+inhere/maybehere16
+inhere/maybehere16/.file2
+inhere/maybehere16/spaces file3
+inhere/maybehere16/-file3
+inhere/maybehere16/-file2
+inhere/maybehere16/.file3
+inhere/maybehere16/spaces file1
+inhere/maybehere16/-file1
+inhere/maybehere16/spaces file2
+inhere/maybehere16/.file1
+inhere/maybehere02
+inhere/maybehere02/.file2
+inhere/maybehere02/spaces file3
+inhere/maybehere02/-file3
+inhere/maybehere02/-file2
+inhere/maybehere02/.file3
+inhere/maybehere02/spaces file1
+inhere/maybehere02/-file1
+inhere/maybehere02/spaces file2
+inhere/maybehere02/.file1
+inhere/maybehere01
+inhere/maybehere01/.file2
+inhere/maybehere01/spaces file3
+inhere/maybehere01/-file3
+inhere/maybehere01/-file2
+inhere/maybehere01/.file3
+inhere/maybehere01/spaces file1
+inhere/maybehere01/-file1
+inhere/maybehere01/spaces file2
+inhere/maybehere01/.file1
+inhere/maybehere17
+inhere/maybehere17/.file2
+inhere/maybehere17/spaces file3
+inhere/maybehere17/-file3
+inhere/maybehere17/-file2
+inhere/maybehere17/.file3
+inhere/maybehere17/spaces file1
+inhere/maybehere17/-file1
+inhere/maybehere17/spaces file2
+inhere/maybehere17/.file1
+inhere/maybehere04
+inhere/maybehere04/.file2
+inhere/maybehere04/spaces file3
+inhere/maybehere04/-file3
+inhere/maybehere04/-file2
+inhere/maybehere04/.file3
+inhere/maybehere04/spaces file1
+inhere/maybehere04/-file1
+inhere/maybehere04/spaces file2
+inhere/maybehere04/.file1
+inhere/maybehere11
+inhere/maybehere11/.file2
+inhere/maybehere11/spaces file3
+inhere/maybehere11/-file3
+inhere/maybehere11/-file2
+inhere/maybehere11/.file3
+inhere/maybehere11/spaces file1
+inhere/maybehere11/-file1
+inhere/maybehere11/spaces file2
+inhere/maybehere11/.file1
+inhere/maybehere09
+inhere/maybehere09/.file2
+inhere/maybehere09/spaces file3
+inhere/maybehere09/-file3
+inhere/maybehere09/-file2
+inhere/maybehere09/.file3
+inhere/maybehere09/spaces file1
+inhere/maybehere09/-file1
+inhere/maybehere09/spaces file2
+inhere/maybehere09/.file1
+inhere/maybehere15
+inhere/maybehere15/.file2
+inhere/maybehere15/spaces file3
+inhere/maybehere15/-file3
+inhere/maybehere15/-file2
+inhere/maybehere15/.file3
+inhere/maybehere15/spaces file1
+inhere/maybehere15/-file1
+inhere/maybehere15/spaces file2
+inhere/maybehere15/.file1
+inhere/maybehere08
+inhere/maybehere08/.file2
+inhere/maybehere08/spaces file3
+inhere/maybehere08/-file3
+inhere/maybehere08/-file2
+inhere/maybehere08/.file3
+inhere/maybehere08/spaces file1
+inhere/maybehere08/-file1
+inhere/maybehere08/spaces file2
+inhere/maybehere08/.file1
+inhere/maybehere14
+inhere/maybehere14/.file2
+inhere/maybehere14/spaces file3
+inhere/maybehere14/-file3
+inhere/maybehere14/-file2
+inhere/maybehere14/.file3
+inhere/maybehere14/spaces file1
+inhere/maybehere14/-file1
+inhere/maybehere14/spaces file2
+inhere/maybehere14/.file1
+inhere/maybehere00
+inhere/maybehere00/.file2
+inhere/maybehere00/spaces file3
+inhere/maybehere00/-file3
+inhere/maybehere00/-file2
+inhere/maybehere00/.file3
+inhere/maybehere00/spaces file1
+inhere/maybehere00/-file1
+inhere/maybehere00/spaces file2
+inhere/maybehere00/.file1
+inhere/maybehere18
+inhere/maybehere18/.file2
+inhere/maybehere18/spaces file3
+inhere/maybehere18/-file3
+inhere/maybehere18/-file2
+inhere/maybehere18/.file3
+inhere/maybehere18/spaces file1
+inhere/maybehere18/-file1
+inhere/maybehere18/spaces file2
+inhere/maybehere18/.file1
+inhere/maybehere05
+inhere/maybehere05/.file2
+inhere/maybehere05/spaces file3
+inhere/maybehere05/-file3
+inhere/maybehere05/-file2
+inhere/maybehere05/.file3
+inhere/maybehere05/spaces file1
+inhere/maybehere05/-file1
+inhere/maybehere05/spaces file2
+inhere/maybehere05/.file1
+inhere/maybehere07
+inhere/maybehere07/.file2
+inhere/maybehere07/spaces file3
+inhere/maybehere07/-file3
+inhere/maybehere07/-file2
+inhere/maybehere07/.file3
+inhere/maybehere07/spaces file1
+inhere/maybehere07/-file1
+inhere/maybehere07/spaces file2
+inhere/maybehere07/.file1
+inhere/maybehere10
+inhere/maybehere10/.file2
+inhere/maybehere10/spaces file3
+inhere/maybehere10/-file3
+inhere/maybehere10/-file2
+inhere/maybehere10/.file3
+inhere/maybehere10/spaces file1
+inhere/maybehere10/-file1
+inhere/maybehere10/spaces file2
+inhere/maybehere10/.file1
+inhere/maybehere13
+inhere/maybehere13/.file2
+inhere/maybehere13/spaces file3
+inhere/maybehere13/-file3
+inhere/maybehere13/-file2
+inhere/maybehere13/.file3
+inhere/maybehere13/spaces file1
+inhere/maybehere13/-file1
+inhere/maybehere13/spaces file2
+inhere/maybehere13/.file1
+bandit5@bandit:~$ if[!-x inhere]
+-bash: if[!-x inhere]: command not found
+bandit5@bandit:~$ find inhere -1033 -print
+find: unknown predicate `-1033'
+Try 'find --help' for more information.
+bandit5@bandit:~$ find inhere -1033
+find: unknown predicate `-1033'
+Try 'find --help' for more information.
+bandit5@bandit:~$ find inhere 1033
+inhere
+inhere/maybehere03
+inhere/maybehere03/.file2
+inhere/maybehere03/spaces file3
+inhere/maybehere03/-file3
+inhere/maybehere03/-file2
+inhere/maybehere03/.file3
+inhere/maybehere03/spaces file1
+inhere/maybehere03/-file1
+inhere/maybehere03/spaces file2
+inhere/maybehere03/.file1
+inhere/maybehere19
+inhere/maybehere19/.file2
+inhere/maybehere19/spaces file3
+inhere/maybehere19/-file3
+inhere/maybehere19/-file2
+inhere/maybehere19/.file3
+inhere/maybehere19/spaces file1
+inhere/maybehere19/-file1
+inhere/maybehere19/spaces file2
+inhere/maybehere19/.file1
+inhere/maybehere06
+inhere/maybehere06/.file2
+inhere/maybehere06/spaces file3
+inhere/maybehere06/-file3
+inhere/maybehere06/-file2
+inhere/maybehere06/.file3
+inhere/maybehere06/spaces file1
+inhere/maybehere06/-file1
+inhere/maybehere06/spaces file2
+inhere/maybehere06/.file1
+inhere/maybehere12
+inhere/maybehere12/.file2
+inhere/maybehere12/spaces file3
+inhere/maybehere12/-file3
+inhere/maybehere12/-file2
+inhere/maybehere12/.file3
+inhere/maybehere12/spaces file1
+inhere/maybehere12/-file1
+inhere/maybehere12/spaces file2
+inhere/maybehere12/.file1
+inhere/maybehere16
+inhere/maybehere16/.file2
+inhere/maybehere16/spaces file3
+inhere/maybehere16/-file3
+inhere/maybehere16/-file2
+inhere/maybehere16/.file3
+inhere/maybehere16/spaces file1
+inhere/maybehere16/-file1
+inhere/maybehere16/spaces file2
+inhere/maybehere16/.file1
+inhere/maybehere02
+inhere/maybehere02/.file2
+inhere/maybehere02/spaces file3
+inhere/maybehere02/-file3
+inhere/maybehere02/-file2
+inhere/maybehere02/.file3
+inhere/maybehere02/spaces file1
+inhere/maybehere02/-file1
+inhere/maybehere02/spaces file2
+inhere/maybehere02/.file1
+inhere/maybehere01
+inhere/maybehere01/.file2
+inhere/maybehere01/spaces file3
+inhere/maybehere01/-file3
+inhere/maybehere01/-file2
+inhere/maybehere01/.file3
+inhere/maybehere01/spaces file1
+inhere/maybehere01/-file1
+inhere/maybehere01/spaces file2
+inhere/maybehere01/.file1
+inhere/maybehere17
+inhere/maybehere17/.file2
+inhere/maybehere17/spaces file3
+inhere/maybehere17/-file3
+inhere/maybehere17/-file2
+inhere/maybehere17/.file3
+inhere/maybehere17/spaces file1
+inhere/maybehere17/-file1
+inhere/maybehere17/spaces file2
+inhere/maybehere17/.file1
+inhere/maybehere04
+inhere/maybehere04/.file2
+inhere/maybehere04/spaces file3
+inhere/maybehere04/-file3
+inhere/maybehere04/-file2
+inhere/maybehere04/.file3
+inhere/maybehere04/spaces file1
+inhere/maybehere04/-file1
+inhere/maybehere04/spaces file2
+inhere/maybehere04/.file1
+inhere/maybehere11
+inhere/maybehere11/.file2
+inhere/maybehere11/spaces file3
+inhere/maybehere11/-file3
+inhere/maybehere11/-file2
+inhere/maybehere11/.file3
+inhere/maybehere11/spaces file1
+inhere/maybehere11/-file1
+inhere/maybehere11/spaces file2
+inhere/maybehere11/.file1
+inhere/maybehere09
+inhere/maybehere09/.file2
+inhere/maybehere09/spaces file3
+inhere/maybehere09/-file3
+inhere/maybehere09/-file2
+inhere/maybehere09/.file3
+inhere/maybehere09/spaces file1
+inhere/maybehere09/-file1
+inhere/maybehere09/spaces file2
+inhere/maybehere09/.file1
+inhere/maybehere15
+inhere/maybehere15/.file2
+inhere/maybehere15/spaces file3
+inhere/maybehere15/-file3
+inhere/maybehere15/-file2
+inhere/maybehere15/.file3
+inhere/maybehere15/spaces file1
+inhere/maybehere15/-file1
+inhere/maybehere15/spaces file2
+inhere/maybehere15/.file1
+inhere/maybehere08
+inhere/maybehere08/.file2
+inhere/maybehere08/spaces file3
+inhere/maybehere08/-file3
+inhere/maybehere08/-file2
+inhere/maybehere08/.file3
+inhere/maybehere08/spaces file1
+inhere/maybehere08/-file1
+inhere/maybehere08/spaces file2
+inhere/maybehere08/.file1
+inhere/maybehere14
+inhere/maybehere14/.file2
+inhere/maybehere14/spaces file3
+inhere/maybehere14/-file3
+inhere/maybehere14/-file2
+inhere/maybehere14/.file3
+inhere/maybehere14/spaces file1
+inhere/maybehere14/-file1
+inhere/maybehere14/spaces file2
+inhere/maybehere14/.file1
+inhere/maybehere00
+inhere/maybehere00/.file2
+inhere/maybehere00/spaces file3
+inhere/maybehere00/-file3
+inhere/maybehere00/-file2
+inhere/maybehere00/.file3
+inhere/maybehere00/spaces file1
+inhere/maybehere00/-file1
+inhere/maybehere00/spaces file2
+inhere/maybehere00/.file1
+inhere/maybehere18
+inhere/maybehere18/.file2
+inhere/maybehere18/spaces file3
+inhere/maybehere18/-file3
+inhere/maybehere18/-file2
+inhere/maybehere18/.file3
+inhere/maybehere18/spaces file1
+inhere/maybehere18/-file1
+inhere/maybehere18/spaces file2
+inhere/maybehere18/.file1
+inhere/maybehere05
+inhere/maybehere05/.file2
+inhere/maybehere05/spaces file3
+inhere/maybehere05/-file3
+inhere/maybehere05/-file2
+inhere/maybehere05/.file3
+inhere/maybehere05/spaces file1
+inhere/maybehere05/-file1
+inhere/maybehere05/spaces file2
+inhere/maybehere05/.file1
+inhere/maybehere07
+inhere/maybehere07/.file2
+inhere/maybehere07/spaces file3
+inhere/maybehere07/-file3
+inhere/maybehere07/-file2
+inhere/maybehere07/.file3
+inhere/maybehere07/spaces file1
+inhere/maybehere07/-file1
+inhere/maybehere07/spaces file2
+inhere/maybehere07/.file1
+inhere/maybehere10
+inhere/maybehere10/.file2
+inhere/maybehere10/spaces file3
+inhere/maybehere10/-file3
+inhere/maybehere10/-file2
+inhere/maybehere10/.file3
+inhere/maybehere10/spaces file1
+inhere/maybehere10/-file1
+inhere/maybehere10/spaces file2
+inhere/maybehere10/.file1
+inhere/maybehere13
+inhere/maybehere13/.file2
+inhere/maybehere13/spaces file3
+inhere/maybehere13/-file3
+inhere/maybehere13/-file2
+inhere/maybehere13/.file3
+inhere/maybehere13/spaces file1
+inhere/maybehere13/-file1
+inhere/maybehere13/spaces file2
+inhere/maybehere13/.file1
+bandit5@bandit:~$ find . -readable -size 1033c \! -executable
+./inhere/maybehere07/.file2
+bandit5@bandit:~$ cat ./inhere/maybehere07/.file2
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
